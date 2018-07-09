@@ -1,4 +1,4 @@
-<font size="6"color=Blue>夏季學院資料科學程式設計</font><br>
+<font size="6"><color=Blue>夏季學院資料科學程式設計</font><br>
 Introduction:<br>
 Hello! My name is 張巧蓉.<p>
 ● Week1<br>
