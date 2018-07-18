@@ -7,3 +7,5 @@ Hello! My name is 張巧蓉.<p>
     2. 安裝Github Desktop, R, R studio<br>
     3. 建Readme.md檔<br>
   ○ At Home<br>
+
+[hw1](https://ikik135zxc.github.io/Example/Week1/hw1.html)
